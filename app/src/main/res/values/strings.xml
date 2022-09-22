@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Password Match</string>
+
+    <string name="checker">Check</string>
+    <string name="pass1">Type Password</string>
+    <string name="pass2">Re-type Password</string>
+</resources>
